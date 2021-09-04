@@ -1,0 +1,10 @@
+D:\VisualStudio\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe.config
+D:\VisualStudio\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+D:\VisualStudio\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.AssemblyReference.cache
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.Bhaskara.resources
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.Properties.Resources.resources
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.GenerateResource.cache
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.exe
+D:\VisualStudio\Bhaskara\Bhaskara\obj\Debug\Bhaskara.pdb
